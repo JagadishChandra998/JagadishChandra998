@@ -1,38 +1,257 @@
-## Hi there 👋
+# 👋 Hi, I'm Jagadish Chandra Dhal
 
-<!--
-**JagadishChandra998/JagadishChandra998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Developer | MERN Stack
 
-Here are some ideas to get you started:
+I’m a Full Stack Developer passionate about building **modern, responsive, and real-world web applications** using the MERN stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Jagadish Chandra Full Stack Developer</h1>
-<h3 align="center">MERN Stack | React.js | Node.js | MongoDB | Building Modern & Real-World Web Applications</h3>
+I enjoy working on both **frontend interfaces and backend systems**, designing REST APIs, working with databases, and turning ideas into functional applications.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadishchandra998&label=Profile%20views&color=0e75b6&style=flat" alt="jagadishchandra998" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagadishchandra998" alt="jagadishchandra998" /></a> </p>
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+* 🎓 B.Tech Computer Science & Engineering
+* 💻 Focused on **Full Stack Web Development**
+* ⚛️ Building applications with **React.js**
+* 🟢 Developing backend systems with **Node.js & Express.js**
+* 🍃 Working with **MongoDB & MySQL**
+* 🔐 Interested in authentication, REST APIs and backend architecture
+* 📊 I enjoy working with data and databases
+* 🌱 Currently improving my **MERN Stack & software development skills**
+* 🚀 Open to collaborating on interesting web development projects
+
+---
+
+# 🛠️ Tech Stack
+
+### 🎨 Frontend
+
 <p align="left">
-<a href="https://twitter.com/jagadishch25552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jagadishch25552" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jagadish-chandra-dhal-1a4601322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jagadish-chandra-dhal-1a4601322" height="30" width="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</a>
+<a href="https://react.dev/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+</a>
+<a href="https://tailwindcss.com/">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
+</a>
+<a href="https://getbootstrap.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### ⚙️ Backend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagadishchandra998&show_icons=true&locale=en&layout=compact" alt="jagadishchandra998" /></p>
+<p align="left">
+<a href="https://nodejs.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+</a>
+<a href="https://expressjs.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
+</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagadishchandra998&show_icons=true&locale=en" alt="jagadishchandra998" /></p>
+### 🗄️ Database
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagadishchandra998&" alt="jagadishchandra998" /></p>
- 
+<p align="left">
+<a href="https://www.mongodb.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+</a>
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+</a>
+</p>
+
+### 🔧 Tools
+
+<p align="left">
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+</a>
+<a href="https://github.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+</a>
+<a href="https://www.postman.com/">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+</a>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🌾 AI-Powered Smart Agriculture Assistant
+
+A MERN-based application designed to provide farmers with useful agricultural information, weather-related information, crop assistance and personalized recommendations.
+
+**Tech:** React.js • Node.js • Express.js • MongoDB
+
+🔗 **Repository:** [View Project](https://github.com/JagadishChandra998)
+
+---
+
+### ⚡ Smart Home Energy Monitoring
+
+A smart energy management application for monitoring appliance usage, scheduling loads, tracking energy consumption and estimating electricity bills.
+
+**Tech:** React.js • Node.js • Express.js • MongoDB
+
+🔗 **Repository:** [View Project](https://github.com/JagadishChandra998)
+
+---
+
+### 🛒 Retail Sales & Inventory Management
+
+A full-stack application for managing products, categories, inventory, billing, sales and dashboard analytics.
+
+**Tech:** React.js • Node.js • Express.js • MongoDB
+
+🔗 **Repository:** [View Project](https://github.com/JagadishChandra998)
+
+---
+
+### 🎓 Student Scholarship Portal
+
+A web application for managing student scholarship information with authentication and role-based functionality.
+
+**Tech:** React.js • Django REST Framework • SQLite
+
+🔗 **Repository:** [View Project](https://github.com/JagadishChandra998)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JagadishChandra998&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagadishChandra998&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=JagadishChandra998&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JagadishChandra998&theme=tokyo-night&hide_border=true&area=true" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JagadishChandra998&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</p>
+
+---
+
+# ⭐ GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JagadishChandra998&theme=tokyonight" />
+
+</p>
+
+---
+
+# 📌 GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JagadishChandra998&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JagadishChandra998&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+React.js
+        ↓
+Node.js
+        ↓
+Express.js
+        ↓
+MongoDB
+        ↓
+REST APIs
+        ↓
+Full Stack Development
+```
+
+I'm continuously improving my knowledge of:
+
+* Advanced React
+* Backend development
+* REST API design
+* MongoDB & database design
+* Authentication & authorization
+* Full-stack application architecture
+* Git & GitHub
+
+---
+
+# 💬 Let's Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/jagadish-chandra-dhal-1a4601322">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://twitter.com/jagadishch25552">
+<img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://github.com/JagadishChandra998">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+## 📫 Contact
+
+If you'd like to collaborate on a project or discuss an opportunity, feel free to connect with me on LinkedIn.
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=JagadishChandra998&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</p>
