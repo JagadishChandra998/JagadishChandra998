@@ -204,55 +204,55 @@ Web application for managing student scholarship information.
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Analytic
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=JagadishChandra998&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true"/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagadishChandra998&layout=compact&hide_border=true&theme=github_dark&langs_count=8"/>
 
-</div>
+</div> -->
 
 ---
 
 # 🔥 Contribution Streak
 
-<div align="center">
+ <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=JagadishChandra998&theme=github-dark-blue&hide_border=true&border_radius=10"/>
 
-</div>
+</div> 
 
 ---
 
 # 📈 Contribution Activity
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JagadishChandra998&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
 
-</div>
+</div> -->
 
 ---
 
 # 🐍 Contribution Snake
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://raw.githubusercontent.com/JagadishChandra998/JagadishChandra998/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
-</div>
+</div> -->
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=JagadishChandra998&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
-</div>
+</div> -->
 
 ---
 
