@@ -1,196 +1,276 @@
+<div align="center">
+
 # 👋 Hi, I'm Jagadish Chandra Dhal
 
-### 💻 Full Stack Developer | MERN Stack
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Real-World+Web+Applications;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-I’m a Full Stack Developer passionate about building **modern, responsive, and real-world web applications** using the MERN stack.
+<br/>
 
-I enjoy working on both **frontend interfaces and backend systems**, designing REST APIs, working with databases, and turning ideas into functional applications.
+<a href="https://github.com/JagadishChandra998">
+  <img src="https://komarev.com/ghpvc/?username=JagadishChandra998&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+</a>
 
----
+<a href="https://github.com/JagadishChandra998?tab=followers">
+  <img src="https://img.shields.io/github/followers/JagadishChandra998?style=for-the-badge&logo=github&label=Followers&color=161B22" alt="GitHub Followers"/>
+</a>
 
-## 🚀 About Me
-
-* 🎓 B.Tech Computer Science & Engineering
-* 💻 Focused on **Full Stack Web Development**
-* ⚛️ Building applications with **React.js**
-* 🟢 Developing backend systems with **Node.js & Express.js**
-* 🍃 Working with **MongoDB & MySQL**
-* 🔐 Interested in authentication, REST APIs and backend architecture
-* 📊 I enjoy working with data and databases
-* 🌱 Currently improving my **MERN Stack & software development skills**
-* 🚀 Open to collaborating on interesting web development projects
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+## 🧑‍💻 About Me
+
+```javascript
+const jagadish = {
+    role: "Full Stack Developer",
+    stack: "MERN",
+    frontend: ["HTML", "CSS", "JavaScript", "React.js"],
+    backend: ["Node.js", "Express.js", "REST APIs"],
+    databases: ["MongoDB", "MySQL"],
+    tools: ["Git", "GitHub", "Postman", "VS Code"],
+    currentlyLearning: [
+        "Advanced React",
+        "Backend Development",
+        "Database Design",
+        "Full Stack Architecture"
+    ],
+    interests: [
+        "Web Development",
+        "Backend Development",
+        "Databases",
+        "Building Real-World Applications"
+    ]
+};
+```
+
+I enjoy building applications that solve practical problems and continuously improving my skills in **frontend development, backend development, APIs, databases, and full-stack architecture**.
+
+---
+
+# ⚡ Tech Stack
 
 ### 🎨 Frontend
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-</a>
-<a href="https://react.dev/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-</a>
-<a href="https://tailwindcss.com/">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
-</a>
-<a href="https://getbootstrap.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
-</a>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
 </p>
 
 ### ⚙️ Backend
 
 <p align="left">
-<a href="https://nodejs.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-</a>
-<a href="https://expressjs.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
-</a>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
 </p>
 
 ### 🗄️ Database
 
 <p align="left">
-<a href="https://www.mongodb.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-</a>
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-</a>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
 
-### 🔧 Tools
+### 🛠️ Tools
 
 <p align="left">
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-</a>
-<a href="https://github.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-</a>
-<a href="https://www.postman.com/">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
-</a>
-<a href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-</a>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🌾 AI-Powered Smart Agriculture Assistant
+<div align="center">
 
-A MERN-based application designed to provide farmers with useful agricultural information, weather-related information, crop assistance and personalized recommendations.
+<table>
+<tr>
 
-**Tech:** React.js • Node.js • Express.js • MongoDB
+<td width="50%">
 
-🔗 **Repository:** [View Project](https://github.com/JagadishChandra998)
+<h3 align="center">🌾 Smart Agriculture Assistant</h3>
 
----
+<p align="center">
+AI-powered agricultural assistant built with the MERN stack.
+</p>
 
-### ⚡ Smart Home Energy Monitoring
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
 
-A smart energy management application for monitoring appliance usage, scheduling loads, tracking energy consumption and estimating electricity bills.
+<p align="center">
+<a href="https://github.com/JagadishChandra998">
+<img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-**Tech:** React.js • Node.js • Express.js • MongoDB
+</td>
 
-🔗 **Repository:** [View Project](https://github.com/JagadishChandra998)
+<td width="50%">
 
----
+<h3 align="center">⚡ Smart Home Energy</h3>
 
-### 🛒 Retail Sales & Inventory Management
+<p align="center">
+Energy monitoring, appliance management, scheduling and bill estimation.
+</p>
 
-A full-stack application for managing products, categories, inventory, billing, sales and dashboard analytics.
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
 
-**Tech:** React.js • Node.js • Express.js • MongoDB
+<p align="center">
+<a href="https://github.com/JagadishChandra998/Smart-Home-Energy-Monitor">
+<img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-🔗 **Repository:** [View Project](https://github.com/JagadishChandra998)
+</td>
 
----
+</tr>
 
-### 🎓 Student Scholarship Portal
+<tr>
 
-A web application for managing student scholarship information with authentication and role-based functionality.
+<td width="50%">
 
-**Tech:** React.js • Django REST Framework • SQLite
+<h3 align="center">🛒 Retail Inventory System</h3>
 
-🔗 **Repository:** [View Project](https://github.com/JagadishChandra998)
+<p align="center">
+Full-stack inventory, billing and sales analytics application.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/JagadishChandra998">
+<img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🎓 Scholarship Portal</h3>
+
+<p align="center">
+Web application for managing student scholarship information.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/JagadishChandra998">
+<img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JagadishChandra998&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=JagadishChandra998&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagadishChandra998&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagadishChandra998&layout=compact&hide_border=true&theme=github_dark&langs_count=8"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 Contribution Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=JagadishChandra998&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=JagadishChandra998&theme=github-dark-blue&hide_border=true&border_radius=10"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JagadishChandra998&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JagadishChandra998&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
 
-</p>
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JagadishChandra998/JagadishChandra998/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JagadishChandra998&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=JagadishChandra998&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
-</p>
-
----
-
-# ⭐ GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JagadishChandra998&theme=tokyonight" />
-
-</p>
+</div>
 
 ---
 
-# 📌 GitHub Summary
+# 📦 Repository & Star Statistics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JagadishChandra998&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JagadishChandra998&theme=github_dark" height="170"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JagadishChandra998&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JagadishChandra998&theme=github_dark" height="170"/>
 
-</p>
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JagadishChandra998&theme=github_dark" width="95%"/>
+
+</div>
 
 ---
 
@@ -198,60 +278,56 @@ A web application for managing student scholarship information with authenticati
 
 ```text
 React.js
-        ↓
-Node.js
-        ↓
-Express.js
-        ↓
-MongoDB
-        ↓
-REST APIs
-        ↓
-Full Stack Development
+   ↓
+Advanced React Patterns
+   ↓
+Node.js & Express.js
+   ↓
+REST API Development
+   ↓
+MongoDB & Database Design
+   ↓
+Full Stack Architecture
 ```
-
-I'm continuously improving my knowledge of:
-
-* Advanced React
-* Backend development
-* REST API design
-* MongoDB & database design
-* Authentication & authorization
-* Full-stack application architecture
-* Git & GitHub
 
 ---
 
-# 💬 Let's Connect
+# 🎯 2026 Goals
 
-<p align="left">
+* 🚀 Build production-quality full-stack applications
+* ⚛️ Improve advanced React skills
+* 🟢 Strengthen Node.js & backend development
+* 🗄️ Improve database design and optimization
+* 🔐 Build secure authentication systems
+* 📚 Contribute to open-source projects
+* 💼 Grow as a professional Full Stack Developer
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/jagadish-chandra-dhal-1a4601322">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://twitter.com/jagadishch25552">
-<img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x"/>
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://github.com/JagadishChandra998">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-## 📫 Contact
+<div align="center">
 
-If you'd like to collaborate on a project or discuss an opportunity, feel free to connect with me on LinkedIn.
+### 💙 Thanks for visiting my profile!
 
----
+**⭐ If you find my projects useful, consider giving them a star!**
 
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=JagadishChandra998&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</p>
+</div>
