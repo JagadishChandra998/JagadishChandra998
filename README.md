@@ -1,22 +1,4 @@
-<!-- <div align="center">
 
-# 👋 Hi, I'm Jagadish Chandra Dhal
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Real-World+Web+Applications;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://github.com/JagadishChandra998">
-  <img src="https://komarev.com/ghpvc/?username=JagadishChandra998&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
-</a>
-
-<a href="https://github.com/JagadishChandra998?tab=followers">
-  <img src="https://img.shields.io/github/followers/JagadishChandra998?style=for-the-badge&logo=github&label=Followers&color=161B22" alt="GitHub Followers"/>
-</a>
-
-</div> -->
 <div align="center">
 
 # 👋 Hi, I'm Jagadish Chandra Dhal
